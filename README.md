@@ -5,12 +5,14 @@
 
 	The left Buffer Menu has the default behavior of a left-click with control pressed.  
 
-	The right Buffer Menu has the new behavior.
-		- caseless sorting
+	The right Buffer Menu has new behavior
 		- easy to discern ag-search buffers
+		- caseless sorting
 		- "test" files indented
 		- "core" files suffixed with "***"
 		- non-clojure files suffixed with "---"
+		- no path information
+		- non-file buffers hidden except Cider-repl and Cider-error 
 
 ## Created by
 
